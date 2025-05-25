@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 Je travaille actuellement en tant que développeur Fullstack PHP<br>🛡️ Je suis aussi un hacker éthique passionné par la sécurité web<br>🌱 J'apprends en ce moment Laravel Livewire et je me spécialise dans la sécurité des API<br>💼 Je suis ouvert aux projets freelance et aux collaborations tech<br>⚡ Fun fact : J’adore casser des choses pour comprendre comment elles fonctionnent… puis les reconstruire en mieux
+💫 À propos de moi
+👨‍💻 Développeur Fullstack passionné, je manie aussi bien PHP (Laravel) côté serveur que Flutter pour créer des applications mobiles performantes et cross-platform.
+🔐 En tant que hacker éthique, je m'intéresse à la sécurité web, avec une approche axée sur la compréhension des failles pour mieux les prévenir.
+🚀 Toujours en veille technologique, j’aime explorer, apprendre et expérimenter de nouvelles approches pour résoudre des problèmes complexes.
+🤝 Ouvert aux missions freelance, aux projets innovants et aux collaborations tech, notamment dans les domaines du développement web, mobile et de la cybersécurité.
+⚡ Fun fact : Je prends autant de plaisir à coder qu'à transmettre ce que j'apprends autour de moi.
 
 
 ## 🌐 Socials:
