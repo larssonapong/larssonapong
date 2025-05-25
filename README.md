@@ -1,12 +1,12 @@
 # 💫 À propos de moi
 
-👨‍💻 Développeur Fullstack passionné, je manie aussi bien **PHP (Laravel)** côté serveur que **Flutter** pour créer des applications mobiles performantes et multiplateformes.
+👨‍💻 Développeur Fullstack passionné, je manie aussi bien **PHP (Laravel)** côté serveur que **Flutter** <br>pour créer des applications mobiles performantes et multiplateformes.
 
-🔐 En tant que **hacker éthique**, je m'intéresse à la sécurité web, avec une approche axée sur la compréhension des failles pour mieux les prévenir.
+🔐 En tant que **hacker éthique**, je m'intéresse à la sécurité web, avec une approche axée sur la<br> compréhension des failles pour mieux les prévenir.
 
-🚀 Toujours en veille technologique, j’aime explorer, apprendre et expérimenter de nouvelles approches pour résoudre des problèmes complexes.
+🚀 Toujours en veille technologique, j’aime explorer, apprendre et expérimenter de nouvelles<br> approches pour résoudre des problèmes complexes.
 
-🤝 Ouvert aux **missions freelance**, aux **projets innovants** et aux **collaborations tech**, notamment dans les domaines du **développement web**, **mobile** et de la **cybersécurité**.
+🤝 Ouvert aux **missions freelance**, aux **projets innovants** et aux **collaborations tech**,<br> notamment dans les domaines du **développement web**, **mobile** et de la **cybersécurité**.
 
 ⚡ *Fun fact* : Je prends autant de plaisir à coder qu'à transmettre ce que j'apprends autour de moi.
 
