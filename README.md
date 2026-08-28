@@ -1,28 +1,65 @@
-# 💫 À propos de moi
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Larsson Apong — développeur fullstack, UX/UI, hacker éthique" src="assets/banner-dark.svg">
+</picture>
 
-👨‍💻 Développeur Fullstack passionné, je manie aussi bien **PHP (Laravel)** côté serveur que **Flutter** <br>pour créer des applications mobiles performantes et multiplateformes.
+Je construis des applications web et mobiles, puis je cherche par où elles cèdent.
+Les deux métiers se nourrissent l'un l'autre : on n'écrit pas le même code quand on
+a passé la nuit à contourner celui des autres.
 
-🔐 En tant que **hacker éthique**, je m'intéresse à la sécurité web, avec une approche axée sur la<br> compréhension des failles pour mieux les prévenir.
+[**Portfolio**](https://larssonapong.netlify.app) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/larssonapong) &nbsp;·&nbsp; [Behance](https://behance.net/larssonapong)
 
-🚀 Toujours en veille technologique, j’aime explorer, apprendre et expérimenter de nouvelles<br> approches pour résoudre des problèmes complexes.
+## Ce que je fais
 
-🤝 Ouvert aux **missions freelance**, aux **projets innovants** et aux **collaborations tech**,<br> notamment dans les domaines du **développement web**, **mobile** et de la **cybersécurité**.
+**Développement** &mdash; Applications web avec Laravel et React, mobile multiplateforme
+avec Flutter. Des API qui tiennent la charge, des schémas de base pensés avant d'être
+écrits, des interfaces qui ne mentent pas sur ce qu'elles font.
 
-⚡ *Fun fact* : Je prends autant de plaisir à coder qu'à transmettre ce que j'apprends autour de moi.
+**Sécurité** &mdash; Une approche offensive au service de la défense. Je cherche les failles
+pour comprendre comment elles naissent : tests d'intrusion web, OSINT, durcissement
+d'applications déjà en production.
 
+**Design** &mdash; UX/UI dessiné dans Figma, puis intégré par la même personne. Ça évite
+les maquettes irréalisables et les compromis découverts trop tard.
 
+## Stack
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/larssonapong) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aponglarsson) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/larssonapong) 
+**Langages**
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=larssonapong&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=larssonapong&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=larssonapong&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![PHP](https://img.shields.io/badge/PHP-0a0a0b?style=flat-square&logo=php&logoColor=f4462e)
+![Dart](https://img.shields.io/badge/Dart-0a0a0b?style=flat-square&logo=dart&logoColor=f4462e)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0b?style=flat-square&logo=javascript&logoColor=f4462e)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0b?style=flat-square&logo=typescript&logoColor=f4462e)
 
----
-[![](https://visitcount.itsvg.in/api?id=larssonapong&icon=0&color=0)](https://visitcount.itsvg.in)
+**Frameworks**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Laravel](https://img.shields.io/badge/Laravel-0a0a0b?style=flat-square&logo=laravel&logoColor=f4462e)
+![React](https://img.shields.io/badge/React-0a0a0b?style=flat-square&logo=react&logoColor=f4462e)
+![Flutter](https://img.shields.io/badge/Flutter-0a0a0b?style=flat-square&logo=flutter&logoColor=f4462e)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0a0a0b?style=flat-square&logo=tailwindcss&logoColor=f4462e)
+
+**Données et plateformes**
+
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0b?style=flat-square&logo=mysql&logoColor=f4462e)
+![Supabase](https://img.shields.io/badge/Supabase-0a0a0b?style=flat-square&logo=supabase&logoColor=f4462e)
+![Netlify](https://img.shields.io/badge/Netlify-0a0a0b?style=flat-square&logo=netlify&logoColor=f4462e)
+![Render](https://img.shields.io/badge/Render-0a0a0b?style=flat-square&logo=render&logoColor=f4462e)
+
+**Outils**
+
+![Git](https://img.shields.io/badge/Git-0a0a0b?style=flat-square&logo=git&logoColor=f4462e)
+![Postman](https://img.shields.io/badge/Postman-0a0a0b?style=flat-square&logo=postman&logoColor=f4462e)
+![Figma](https://img.shields.io/badge/Figma-0a0a0b?style=flat-square&logo=figma&logoColor=f4462e)
+
+## Activité
+
+<img alt="Séries de contributions" src="https://streak-stats.demolab.com?user=larssonapong&hide_border=true&background=0a0a0b&stroke=232327&ring=f4462e&fire=f4462e&currStreakLabel=f4462e&sideLabels=85858f&dates=85858f&currStreakNum=fafafa&sideNums=fafafa" />
+
+## Disponibilité
+
+Ouvert aux missions freelance et aux collaborations : développement web, mobile,
+audit de sécurité. Le plus direct est le [formulaire de contact du portfolio](https://larssonapong.netlify.app/#contact).
+
+Je prends autant de plaisir à écrire du code qu'à transmettre ce que j'apprends
+en l'écrivant.
