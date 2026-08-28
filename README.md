@@ -1,8 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Larsson Apong — développeur fullstack, UX/UI, hacker éthique" src="assets/banner-dark.svg">
-</picture>
+# LARSSON APONG
+
+`DÉVELOPPEUR FULLSTACK` &nbsp; `UX/UI` &nbsp; `HACKER ÉTHIQUE`
+
+**Douala · Cameroun** &nbsp;—&nbsp; disponible en freelance
+
+---
 
 Je construis des applications web et mobiles, puis je cherche par où elles cèdent.
 Les deux métiers se nourrissent l'un l'autre : on n'écrit pas le même code quand on
@@ -54,7 +56,7 @@ les maquettes irréalisables et les compromis découverts trop tard.
 
 ## Activité
 
-<img alt="Séries de contributions" src="https://streak-stats.demolab.com?user=larssonapong&hide_border=true&background=0a0a0b&stroke=232327&ring=f4462e&fire=f4462e&currStreakLabel=f4462e&sideLabels=85858f&dates=85858f&currStreakNum=fafafa&sideNums=fafafa" />
+![Séries de contributions](https://streak-stats.demolab.com?user=larssonapong&hide_border=true&background=0a0a0b&stroke=232327&ring=f4462e&fire=f4462e&currStreakLabel=f4462e&sideLabels=85858f&dates=85858f&currStreakNum=fafafa&sideNums=fafafa)
 
 ## Disponibilité
 
