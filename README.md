@@ -54,10 +54,6 @@ les maquettes irréalisables et les compromis découverts trop tard.
 ![Postman](https://img.shields.io/badge/Postman-0a0a0b?style=flat-square&logo=postman&logoColor=f4462e)
 ![Figma](https://img.shields.io/badge/Figma-0a0a0b?style=flat-square&logo=figma&logoColor=f4462e)
 
-## Activité
-
-![Séries de contributions](https://streak-stats.demolab.com?user=larssonapong&hide_border=true&background=0a0a0b&stroke=232327&ring=f4462e&fire=f4462e&currStreakLabel=f4462e&sideLabels=85858f&dates=85858f&currStreakNum=fafafa&sideNums=fafafa)
-
 ## Disponibilité
 
 Ouvert aux missions freelance et aux collaborations : développement web, mobile,
